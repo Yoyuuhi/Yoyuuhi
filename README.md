@@ -1,5 +1,4 @@
 <div align="left">
-  <a href="https://atcoder.jp/users/yoyuuhi" target="_blank">AtCoder Cyan (Golang main) <br>
   <a href="https://atcoder.jp/users/yoyuuhi" target="_blank" title="yoyuuhi"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fyoyuuhi" /></a>
   </a>
 </div><br>
